@@ -1,0 +1,1 @@
+Este es mi archivo de trabajo para a prender a programar con Git y utilizar comandos Vim
